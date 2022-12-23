@@ -1,0 +1,6 @@
+.ccsproject text eol=lf
+.cproject text eol=lf
+.project text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.ld text eol=lf
